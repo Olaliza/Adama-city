@@ -3,7 +3,7 @@
 
  Ongoing Adama city Website For [Adama City].
 
-Go to [This Page]() to see demo 🙂.
+Go to [This Page](https://olaliza.github.io/Adama-city/) to see demo 🙂.
 
 ## About
 
